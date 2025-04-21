@@ -1,1 +1,2 @@
 Proyecto Concesionario de Autos
+Este proyecto es una aplicación para gestionar autos de un concesionario.
