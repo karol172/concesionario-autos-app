@@ -1,3 +1,4 @@
 Proyecto Concesionario de Autos
 Este proyecto es una aplicación para gestionar autos de un concesionario.
 Contacto: ventas@concesionario.com
+Nueva funcionalidad: búsqueda de autos por marca
